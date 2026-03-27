@@ -1,87 +1,89 @@
-<!-- 🟢 CYBER HEADER BANNER -->
+<!-- 🌌 HEADER ANIMATION -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,100:302b63&height=180&section=header&text=Welcome%20to%20My%20Profile&fontSize=30&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:1a1a2e&height=200&section=header&text=CYBER%20DEVELOPER&fontSize=35&fontColor=00ffcc" />
 </p>
 
 ---
 
-# 👋 Hi, I'm Your Name
-💻 Software Developer | Network Engineer  
-🌐 Cybersecurity & Networking Enthusiast  
-🔐 Ethical Hacking | System Security | Penetration Testing  
-🚀 Building secure & intelligent systems  
-
----
-
-<!-- 🔵 PROFILE VIEWS -->
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20Views&color=0e75b6&style=flat" />
+<!-- 💀 TYPING INTRO -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&color=00FFCC&center=true&vCenter=true&width=500&lines=Software+Developer;Network+Engineer;Cybersecurity+Enthusiast;Ethical+Hacker;System+Security+Specialist" />
 </p>
 
 ---
 
-## ⚡ About Me
-- 💻 Passionate Developer & Network Engineer  
-- 🌐 Cybersecurity & Ethical Hacking Focus  
-- 🔐 System Security & Penetration Testing  
-- 🚀 Always learning new technologies  
+# 👋 ABOUT ME
+💻 **Software Developer** | Network Engineer  
+🌐 **Cybersecurity & Ethical Hacking** Enthusiast  
+🔐 **Penetration Testing** | System Security  
+🚀 Building secure and scalable digital systems
 
 ---
 
-## 🛠️ Tech Stack
+# ⚡ TECH STACK
 
-### 💻 Languages
+### 💻 Languages & Frameworks
 <p>
-  <img src="https://skillicons.dev/icons?i=python,php,javascript,html,css,bash" />
+  <img src="https://skillicons.dev/icons?i=python,php,javascript,html,css,bash,c" />
 </p>
 
 ### ⚙️ Tools & Platforms
 <p>
-  <img src="https://skillicons.dev/icons?i=linux,git,github,mysql,vscode,docker" />
+  <img src="https://skillicons.dev/icons?i=linux,git,github,mysql,vscode,docker,kali" />
 </p>
 
 ---
 
-## 📊 GitHub Analytics
+# 📊 GITHUB STATS
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical" />
 </p>
 
 ---
 
-## 🚀 Featured Projects
-- 📊 AI Trading Bot (Python Automation System)
-- 🌐 Network Scanner Tool (Cybersecurity)
-- 🔐 Penetration Testing Lab
-- 💻 Portfolio Website (Modern UI)
+# 🚀 PROJECTS
+- 📊 **AI Trading Bot** – Python-based automation for market analysis
+- 🌐 **Network Scanner Tool** – Cybersecurity utility for network reconnaissance
+- 🔐 **Penetration Testing Lab** – Isolated environment for security testing
+- 💻 **Portfolio Website** – Modern UI/UX design showcasing my work
 
 ---
 
-## 🌐 Connect With Me
+# 🌐 CONNECT WITH ME
 
-<p>
-  <a href="https://facebook.com/">
-    <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook"/>
+<p align="center">
+  <a href="https://facebook.com/your-profile">
+    <img src="https://img.shields.io/badge/Facebook-000000?style=for-the-badge&logo=facebook&logoColor=white"/>
   </a>
-
-  <a href="https://t.me/Techverse_com/">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram"/>
+  &nbsp;&nbsp;
+  <a href="https://t.me/your-username">
+    <img src="https://img.shields.io/badge/Telegram-00ffcc?style=for-the-badge&logo=telegram&logoColor=black"/>
   </a>
-
+  &nbsp;&nbsp;
   <a href="mailto:your@email.com">
-    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail"/>
+    <img src="https://img.shields.io/badge/Gmail-ff0044?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
 ---
 
-## 🔥 Fun Section
+# 🧠 CYBER MINDSET 
+
+> បង្កើតកូដ ដែលមានសម្មាងភាពខ្លាងជាងនេះ ល្អជាងនេះ  
+> *"Build code that is more resilient, better than before."*
+
+---
+
+<!-- 🌌 FOOTER ANIMATION -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:000000&height=120&section=footer" />
+</p>
