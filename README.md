@@ -73,7 +73,7 @@
     <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook"/>
   </a>
 
-  <a href="https://t.me/">
+  <a href="https://t.me/Techverse_com/">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram"/>
   </a>
 
