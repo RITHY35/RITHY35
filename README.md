@@ -1,97 +1,97 @@
-<!-- 🌌 HEADER ANIMATION -->
+<!--- 🌌 ENHANCED HEADER ANIMATION WITH 3D TEXT -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:1a1a2e&height=200&section=header&text=CYBER%20DEVELOPER&fontSize=35&fontColor=00ffcc" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:0a0f2a&height=220&section=header&text=WELCOME%20TO%20MY%20GITHUB&fontSize=40&fontColor=00ffcc&fontAlignY=35&animation=twinkling" />
+</p>
+
+<!--- 💎 3D GLOWING TEXT INTRO -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=32&duration=3000&pause=500&color=00FFCC&center=true&vCenter=true&width=700&height=70&lines=╔════════════════════════════════╗;⚡+CYBER+DEVELOPER+⚡;╚════════════════════════════════╝" alt="3D Cyber Developer" />
+</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&color=00FFAA&center=true&vCenter=true&width=600&lines=Cybersecurity+%26+Ethical+Hacking;Web+Developer+%26+Tools+Testing;Linux+Systems+Architect;Penetration+Testing+Specialist;Database+Security+Expert" />
 </p>
 
 ---
 
-<!-- 💀 TYPING INTRO -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&color=00FFCC&center=true&vCenter=true&width=500&lines=Software+Developer;Network+Engineer;Cybersecurity+Enthusiast;Ethical+Hacker;System+Security+Specialist" />
-</p>
+# 🛡️ ABOUT ME
+
+<img align="right" width="300" src="https://media.giphy.com/media/HscDLzkT8r0lpuQfDg/giphy.gif" />
+
+💻 **Software Developer** | Network Security Engineer  
+🔐 **Cybersecurity & Ethical Hacking** Specialist  
+🌐 **Web Developer** | **Tools Testing & Development** Expert  
+🐧 **Linux Systems Architect** (Kali, Ubuntu, CentOS, RedHat)  
+🗄️ **Database Security** (SQL, MySQL, PostgreSQL)  
+🚀 Building secure, scalable, and offensive security tools  
+
+⚡ **Mindset:** *"Break it to understand it, secure it before they exploit it."*
 
 ---
 
-# 👋 ABOUT ME
-💻 **Software Developer** | Network Engineer  
-🌐 **Cybersecurity & Ethical Hacking** Enthusiast  
-🔐 **Penetration Testing** | System Security  
-🚀 Building secure and scalable digital systems
-
----
-
-# ⚡ TECH STACK
+# ⚡ TECH STACK & TOOLKIT
 
 ### 💻 Languages & Frameworks
 <p>
-  <img src="https://skillicons.dev/icons?i=python,php,javascript,html,css,bash,c" />
+  <img src="https://skillicons.dev/icons?i=python,php,javascript,html,css,bash,c,java" />
+</p>
+
+### 🐧 Linux Systems
+<p>
+  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
+  <img src="https://img.shields.io/badge/CentOS-262577?style=for-the-badge&logo=centos&logoColor=white" />
+  <img src="https://img.shields.io/badge/Red_Hat-EE0000?style=for-the-badge&logo=redhat&logoColor=white" />
+</p>
+
+### 🗄️ Databases
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,postgresql,sqlite,mongodb" />
 </p>
 
 ### ⚙️ Tools & Platforms
 <p>
-  <img src="https://skillicons.dev/icons?i=linux,git,github,mysql,vscode,docker,kali" />
+  <img src="https://skillicons.dev/icons?i=linux,git,github,docker,vscode" />
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
+  <img src="https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white" />
+  <img src="https://img.shields.io/badge/Nmap-0E83CD?style=for-the-badge&logo=nmap&logoColor=white" />
 </p>
 
 ---
 
-# 📊 GITHUB STATS
+# 📊 GITHUB STATISTICS
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&bg_color=0a0f2a&title_color=00ffcc&icon_color=00ffcc" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical&background=0a0f2a&ring=00ffcc&fire=00ffcc&currStreakLabel=00ffcc" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical&bg_color=0a0f2a&title_color=00ffcc" />
 </p>
 
 ---
 
-# 🚀 PROJECTS
-- 📊 **AI Trading Bot** – Python-based automation for market analysis
-- 🌐 **Network Scanner Tool** – Cybersecurity utility for network reconnaissance
-- 🔐 **Penetration Testing Lab** – Isolated environment for security testing
-- 💻 **Portfolio Website** – Modern UI/UX design showcasing my work
+# 🚀 FEATURED PROJECTS
+
+| Project | Description | Tech Stack |
+|---------|-------------|------------|
+| 🛡️ **Advanced Network Scanner** | Multi-threaded port scanner with service detection & vulnerability check | Python, Scapy, Nmap |
+| 🤖 **AI-Powered Trading Bot** | Real-time market analysis using machine learning algorithms | Python, TensorFlow, APIs |
+| 🔐 **Penetration Testing Lab** | Isolated Docker environment for security testing & exploitation | Docker, Kali, Metasploit |
+| 🌐 **Cyber Portfolio Website** | Interactive portfolio with 3D animations & real-time threat map | Three.js, React, WebGL |
+| 🗄️ **SQL Injection Lab** | Educational platform demonstrating SQLi vulnerabilities & prevention | PHP, MySQL, Docker |
 
 ---
 
-# 🌐 CONNECT WITH ME
+# 🧠 CYBER MINDSET & PHILOSOPHY
 
-<h2 align="center">🌐 CONNECT WITH ME</h2>
-
-<p align="center">
-
-  <a href="https://www.facebook.com/share/18P2fbDyvT/?mibextid=wwXIfr">
-    <img src="https://img.shields.io/badge/Facebook-0A66C2?style=for-the-badge&logo=facebook&logoColor=white"/>
-  </a>
-
-  <a href="https://t.me/Techverse_com">
-    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/>
-  </a>
-
-  <a href="https://www.youtube.com/@Techverse_net">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
-  </a>
-
-</p>
-
----
-
-# 🧠 CYBER MINDSET 
-
-⚡ Observe everything, trust nothing  
-💀 Break systems to understand them  
-🔐 Secure before someone exploits  
-💻 Code with purpose, not just logic  
-🚀 Build tools that solve real problems  
-🧠 Think deeper than the system itself**
-
----
-
-<!-- 🌌 FOOTER ANIMATION -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:000000&height=120&section=footer" />
-</p>
+```text
+⚡ Observe everything, trust nothing
+💀 Break systems to understand their core
+🔐 Secure before someone exploits
+💻 Code with purpose, not just logic
+🚀 Build tools that solve real problems
+🐧 Master the terminal, master the machine
+🧠 Think deeper than the system itself
+🌐 Defend as an attacker, attack as a defender
