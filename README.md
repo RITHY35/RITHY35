@@ -60,26 +60,34 @@
 
 # 🌐 CONNECT WITH ME
 
+<h2 align="center">🌐 CONNECT WITH ME</h2>
+
 <p align="center">
-  <a href="https://facebook.com/your-profile">
-    <img src="https://img.shields.io/badge/Facebook-000000?style=for-the-badge&logo=facebook&logoColor=white"/>
+
+  <a href="https://www.facebook.com/share/18P2fbDyvT/?mibextid=wwXIfr">
+    <img src="https://img.shields.io/badge/Facebook-0A66C2?style=for-the-badge&logo=facebook&logoColor=white"/>
   </a>
-  &nbsp;&nbsp;
-  <a href="https://t.me/your-username">
-    <img src="https://img.shields.io/badge/Telegram-00ffcc?style=for-the-badge&logo=telegram&logoColor=black"/>
+
+  <a href="https://t.me/Techverse_com">
+    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/>
   </a>
-  &nbsp;&nbsp;
-  <a href="mailto:your@email.com">
-    <img src="https://img.shields.io/badge/Gmail-ff0044?style=for-the-badge&logo=gmail&logoColor=white"/>
+
+  <a href="https://www.youtube.com/@Techverse_net">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
   </a>
+
 </p>
 
 ---
 
 # 🧠 CYBER MINDSET 
 
-> បង្កើតកូដ ដែលមានសម្មាងភាពខ្លាងជាងនេះ ល្អជាងនេះ  
-> *"Build code that is more resilient, better than before."*
+⚡ Observe everything, trust nothing  
+💀 Break systems to understand them  
+🔐 Secure before someone exploits  
+💻 Code with purpose, not just logic  
+🚀 Build tools that solve real problems  
+🧠 Think deeper than the system itself**
 
 ---
 
